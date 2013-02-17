@@ -1,0 +1,5 @@
+C:\Program Files\Intel\PCSDK\bin\x64\gesture_viewer.cs.exe
+C:\Program Files\Intel\PCSDK\bin\x64\gesture_viewer.cs.pdb
+C:\Program Files\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.csprojResolveAssemblyReference.cache
+C:\Program Files\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.exe
+C:\Program Files\Intel\PCSDK\framework\CSharp\gesture_viewer.cs\obj\x64\Debug\gesture_viewer.cs.pdb
